@@ -1,4 +1,4 @@
-# Cleanup unused Storage Volumes in IBM Cloud Account
+# Cleanup unused Storage Volumes in IBM Cloud Accounts
 Most of us are having challenges on viewing or clean-up unused/unattached Storage Volumes in our IBM Cloud accounts. These unused volumes will pile-up your Recurring Fees under "Unattached Services" in your invoice. 
 
 Refer the below scripts to View or Delete unused/unattached Block or File Storage Volumes
